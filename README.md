@@ -363,3 +363,10 @@ This project was created for educational purposes as an academic assessment.
 - Follow-up overdue indication
 - Duplicate application prevention
 - Responsive dashboard for desktop and mobile
+## Technology Stack
+
+- MongoDB Atlas
+- Express.js
+- React.js
+- Node.js
+- Vite
