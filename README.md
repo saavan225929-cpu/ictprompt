@@ -354,3 +354,12 @@ During a viva examination, be prepared to answer questions on the following arch
 
 ## 📄 License
 This project was created for educational purposes as an academic assessment.
+## Main Features
+
+- Add and manage job applications
+- Track application status and status history
+- Search applications by company
+- Filter applications by status
+- Follow-up overdue indication
+- Duplicate application prevention
+- Responsive dashboard for desktop and mobile
