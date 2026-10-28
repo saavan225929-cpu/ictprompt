@@ -1529,3 +1529,8 @@ button:hover {
   transform: translateY(-1px);
   opacity: 0.9;
 }
+@media (max-width: 768px) {
+  .container {
+    padding: 12px;
+  }
+}
